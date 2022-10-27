@@ -5,8 +5,8 @@
   
 - 🌱 I’m currently learning primarily Python, Kubernetes Security & Graph Theory.
 
-- 💞️ I’m looking to collaborate on platform related programs that automate mundane
-tasks and make life easier.
+- 💞️ I’m looking to collaborate on platform & security related that reduces risks and makes 
+our life much easier.
 
 - My public key: 
 
