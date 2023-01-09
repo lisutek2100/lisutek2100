@@ -5,7 +5,8 @@
   
 - 🌱 I’m currently learning about Data engineering & Security.
 
-- 💞️ I’m looking to collaborate on platform & security related projects to reduce risk and produce value.
+- 💞️ I’m looking to collaborate on platform & security related projects to support in achieving business critical missions.
+
 
 - My public key: 
 
