@@ -7,6 +7,13 @@
 
 - 💞️ I’m looking to collaborate on platform & security related projects to support in achieving business critical missions.
 
+- Checkout my open source projects: 
+  - [Observability Hub](https://github.com/stavrosfilippidis/tf_aws_observability_hub) a cluster for running Grafana on AWS EC2. 
+  - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a cluster leveraging Prometheus to scrap metrics in AWS. 
+  - [Terraform Remote Backend](https://github.com/stavrosfilippidis/tf_aws_s3_remote_terraform_backend) a Terraform module creating the infastructure needed to save a state remotely.
+  - [Wireguard VPN](https://github.com/stavrosfilippidis/tf_aws_wireguard_vpn) a VPN ran on AWS EC2 based on Wireguard (In Progress). 
+  
+
 
 - My public key: 
 
