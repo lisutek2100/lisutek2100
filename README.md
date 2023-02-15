@@ -7,12 +7,15 @@
 
 - 💞️ I’m looking to collaborate on platform & security related projects to support in achieving business critical missions.
 
-- Checkout my open source projects: 
-  - [Observability Hub](https://github.com/stavrosfilippidis/tf_aws_observability_hub) a cluster for running Grafana on AWS EC2. 
-  - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a cluster leveraging Prometheus to scrap metrics on AWS EC2. 
-  - [Wireguard VPN](https://github.com/stavrosfilippidis/tf_aws_wireguard_vpn) a VPN ran on AWS EC2 based on Wireguard. 
-  - [Terraform Remote Backend](https://github.com/stavrosfilippidis/tf_aws_s3_remote_terraform_backend) a Terraform module creating the infastructure needed to save a state remotely.
-  
+Feel free to explore my open source modules. 
+
+They leverage AWS and different tooling combined with the robust and secure Fedora Core OS 
+to provide you with what's needed in adjacent infrastructure.
+
+  - [Observability Hub](https://github.com/stavrosfilippidis/tf_aws_observability_hub) a cluster based on Grafana and AWS EC2 that provides monitoring visualization. 
+  - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a cluster leveraging Prometheus to scrap metrics from endpoints and expose them for further usage. 
+  - [Bastion Host](https://github.com/stavrosfilippidis/tf_aws_wireguard_vpn) a Virtual Private Network powered by AWS EC2 and Wireguard for lowering the attack surfaces in networks. 
+  - [Terraform Remote Backend](https://github.com/stavrosfilippidis/tf_aws_s3_remote_terraform_backend) a Terraform module creating the infastructure needed for collaboration and remote state.
 
 
 - My public key: 
