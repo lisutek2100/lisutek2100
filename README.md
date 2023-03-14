@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @stavrosfilippidis a platform and security engineer. 
+- 👋 Hi, I’m @stavrosfilippidis a cloud and security engineer that worked extensively in the 
+startup scene in Berlin. 
 
-- 📫 Find out more about me under: 
-  https://linktr.ee/stavrosfilippidis
-  
 - 🌱 I’m currently learning about Data engineering & Security.
 
 - 💞️ I’m looking to collaborate on platform & security related projects to support in achieving business critical missions.
@@ -15,7 +13,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCiXT2UHq+pTQnRqGOD0Em+DirSDRVgJ2Uw3wy74NTh
 
 ### A bit Open Source
 
-While working at previous companies,I identified the recurring need for  
+While working at previous companies, I identified the recurring need for  
 adjacent infrastructure and tooling.  
 Common use cases are Monitoring, Observability and a VPN Bastion Host.  
 The following modules leverage modern open source technology and provide  
@@ -29,3 +27,8 @@ Feel free to reach out in case you discover bugs.
   - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a cluster leveraging Prometheus to scrap metrics from endpoints and expose them for further usage. 
   - [Bastion Host](https://github.com/stavrosfilippidis/tf_aws_wireguard_vpn) a Virtual Private Network powered by AWS EC2 and Wireguard for lowering the attack surfaces in networks. 
   - [Terraform Remote Backend](https://github.com/stavrosfilippidis/tf_aws_s3_remote_terraform_backend) a Terraform module creating the infastructure needed for collaboration and remote state.
+
+
+- 📫 Find out more about me under: 
+  https://linktr.ee/stavrosfilippidis
+  
