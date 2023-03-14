@@ -29,6 +29,4 @@ Feel free to reach out in case you discover bugs.
   - [Terraform Remote Backend](https://github.com/stavrosfilippidis/tf_aws_s3_remote_terraform_backend) a Terraform module creating the infastructure needed for collaboration and remote state.
 
 
-- 📫 Find out more about me under: 
-  https://linktr.ee/stavrosfilippidis
   
