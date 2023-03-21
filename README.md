@@ -22,7 +22,9 @@ Technologies I've worked with:
 [Golang](https://go.dev/)  
 [Python](https://docs.python.org/3/)
 [Ubuntu 20&22](https://ubuntu.com/)   
-[Fedora Core OS](https://docs.fedoraproject.org/en-US/fedora-coreos/)    
+[Fedora Core OS](https://docs.fedoraproject.org/en-US/fedora-coreos/)   
+[Cloudquery](https://www.cloudquery.io/)  
+[Steampipe](https://steampipe.io/)  
 
 
 ### A bit of OSS 
