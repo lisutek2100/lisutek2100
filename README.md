@@ -46,7 +46,8 @@ Cloud native workload cluster
 
 Infrastructure as Code    
 [Ansible](https://www.ansible.com/)     
-[Terraform](https://www.terraform.io/)   
+[Terraform](https://www.terraform.io/)    
+[Packer](https://www.packer.io/) 
 
 Monitoring & Observability   
 [Grafana](https://grafana.com/)    
