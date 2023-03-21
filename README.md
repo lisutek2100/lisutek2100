@@ -8,7 +8,7 @@ Some resources that inspired me:
 https://github.com/stavrosfilippidis/booklist 
 
 Technologies I've worked with:   
-[AWS](https://aws.amazon.com/)  
+[AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront)](https://aws.amazon.com/)  
 [Hashicorp Stack](https://www.hashicorp.com/solutions)  
 [Kubernetes](https://kubernetes.io/)   
 [Ansible](https://www.ansible.com/)    
