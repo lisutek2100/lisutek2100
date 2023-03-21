@@ -18,8 +18,8 @@ adjacent infrastructure in the areas of monitoring, observability, bastion hosts
 The following modules utilize modern open source technology 
 and provide a starting point for platform engineers who require these common use cases.
 
-  - [Observability Hub](https://github.com/stavrosfilippidis/tf_aws_observability_hub) a observability cluster that can be used to oversee your systems.
-  - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a cluster leveraging Prometheus to scrap metrics from endpoints and expose them for further usage. 
+  - [Observability Hub](https://github.com/stavrosfilippidis/tf_aws_observability_hub) an observability facility that can be used to oversee your systems.
+  - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a monitoring facility to scrap metrics from endpoints and expose them for further usage. 
   - [Bastion Host](https://github.com/stavrosfilippidis/tf_aws_wireguard_vpn) a VPN leveraging Wireguard to lower your attack surface.
   - [Terraform Remote Backend](https://github.com/stavrosfilippidis/tf_aws_s3_remote_terraform_backend) creates the infrastructure needed to operate Terraform with a remote state.
 
