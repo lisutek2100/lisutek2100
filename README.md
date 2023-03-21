@@ -38,7 +38,7 @@ Operating systems
 [Ubuntu](https://ubuntu.com/)   
 
 Cloud platform    
-[AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront)](https://aws.amazon.com/)  
+[AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront, Route53)](https://aws.amazon.com/)  
 
 Cloud native workload cluster    
 [Hashicorp Stack (i.e. Consul, Nomad, Vault)](https://www.hashicorp.com/solutions)  
