@@ -14,9 +14,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCiXT2UHq+pTQnRqGOD0Em+DirSDRVgJ2Uw3wy74NTh
 ### Check out some OSS platform modules I've released
 
 While working at previous companies, I noticed a recurring need for 
-adjacent infrastructure in the areas of monitoring, observability, bastion hosts. 
-The following modules utilize modern open source technology 
-and provide a starting point for platform engineers who require these common use cases.
+adjacent infrastructure in the areas of monitoring, observability and bastion hosts. 
+The following modules utilize modern open source technology to provide a 
+starting base for platform engineers who require these common use cases.
 
   - [Observability Hub](https://github.com/stavrosfilippidis/tf_aws_observability_hub) an observability facility that can be used to oversee your systems.
   - [Metrics Hub](https://github.com/stavrosfilippidis/tf_aws_metrics_collector) a monitoring facility to scrap metrics from endpoints and expose them for further usage. 
