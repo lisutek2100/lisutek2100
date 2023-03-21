@@ -56,7 +56,8 @@ Monitoring & Observability
  
 OS hardening    
 [Suricata](https://suricata.io/)   
-[Falco](https://falco.org/)       
+[Falco](https://falco.org/)    
+[Clamav](https://www.clamav.net/)  
 
 Scripting languages   
 [Golang](https://go.dev/)    
