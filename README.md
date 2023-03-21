@@ -27,7 +27,7 @@ Infrastructure as Code
 [Ansible](https://www.ansible.com/)     
 [Terraform](https://www.terraform.io/)   
 
-Monitoring & Observability 
+Monitoring & Observability   
 [Grafana](https://grafana.com/)    
 [Fluentd](https://www.fluentd.org/)   
 [Prometheus](https://prometheus.io/)      
