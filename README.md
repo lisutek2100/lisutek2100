@@ -7,6 +7,23 @@ meaningful technology.
 Some resources that inspired me:   
 https://github.com/stavrosfilippidis/booklist 
 
+Technologies I've worked with:   
+[AWS](https://aws.amazon.com/)  
+[Hashicorp Stack](https://www.hashicorp.com/solutions)  
+[Kubernetes](https://kubernetes.io/)   
+[Ansible](https://www.ansible.com/)    
+[Terraform](https://www.terraform.io/)  
+[Grafana](https://grafana.com/)   
+[Fluentd](https://www.fluentd.org/)   
+[Prometheus](https://prometheus.io/)   
+[Suricata](https://suricata.io/) 
+[Falco](https://falco.org/)    
+[Postgres](https://www.postgresql.org/)    
+[Golang](https://go.dev/)  
+[Python](https://docs.python.org/3/)
+[Ubuntu 20&22](https://ubuntu.com/)   
+[Fedora Core OS](https://docs.fedoraproject.org/en-US/fedora-coreos/)    
+
 
 ### A bit of OSS 
 
