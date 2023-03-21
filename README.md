@@ -13,8 +13,8 @@ My workstation system
 [Fedora](https://getfedora.org/)  
 
 Operating systems  
-[Ubuntu](https://ubuntu.com/)   
 [Fedora Core OS](https://docs.fedoraproject.org/en-US/fedora-coreos/)    
+[Ubuntu](https://ubuntu.com/)   
 
 Cloud platform    
 [AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront)](https://aws.amazon.com/)  
