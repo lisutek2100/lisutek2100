@@ -23,6 +23,7 @@ If you encounter any issues or bugs, please don't hesitate to contact me.
 
 More coming.. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Literature that inspired me:   
 https://github.com/stavrosfilippidis/booklist 
