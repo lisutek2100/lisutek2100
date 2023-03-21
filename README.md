@@ -7,7 +7,7 @@ meaningful technology.
 Some resources that inspired me:   
 https://github.com/stavrosfilippidis/booklist 
 
-Technologies I've worked with:   
+Technologies I've worked with and can recommend:   
 [AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront)](https://aws.amazon.com/)  
 [Hashicorp Stack](https://www.hashicorp.com/solutions)  
 [Kubernetes](https://kubernetes.io/)   
