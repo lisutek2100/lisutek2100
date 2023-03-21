@@ -4,7 +4,7 @@ startup scene. I'm a big fan of open source technology and what it provides to t
 My specialties are building and securing cloud infrastructure and working with innovative teams on 
 meaningful technology. 
 
-Some resources that inspired me:   
+Literature that inspired me:   
 https://github.com/stavrosfilippidis/booklist 
 
 ### Technologies I've worked with and can recommend:   
