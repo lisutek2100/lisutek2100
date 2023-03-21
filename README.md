@@ -8,23 +8,42 @@ Some resources that inspired me:
 https://github.com/stavrosfilippidis/booklist 
 
 Technologies I've worked with and can recommend:   
-[AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront)](https://aws.amazon.com/)  
-[Hashicorp Stack](https://www.hashicorp.com/solutions)  
-[Kubernetes](https://kubernetes.io/)   
-[Ansible](https://www.ansible.com/)    
-[Terraform](https://www.terraform.io/)  
-[Grafana](https://grafana.com/)   
-[Fluentd](https://www.fluentd.org/)   
-[Prometheus](https://prometheus.io/)     
-[Suricata](https://suricata.io/)   
-[Falco](https://falco.org/)      
-[Postgres](https://www.postgresql.org/)    
-[Golang](https://go.dev/)  
-[Python](https://docs.python.org/3/)  
+
+My workstation system   
+[Fedora](https://getfedora.org/)  
+
+Operating systems  
 [Ubuntu](https://ubuntu.com/)   
-[Fedora Core OS](https://docs.fedoraproject.org/en-US/fedora-coreos/)   
-[Cloudquery](https://www.cloudquery.io/)  
-[Steampipe](https://steampipe.io/)  
+[Fedora Core OS](https://docs.fedoraproject.org/en-US/fedora-coreos/)    
+
+Cloud platform    
+[AWS (EC2 ,EKS, ECS, RDS, S3, Secrets Manager, Batch, VPC, Cloudfront)](https://aws.amazon.com/)  
+
+Cloud native workload cluster    
+[Hashicorp Stack (i.e. Consul, Nomad, Vault)](https://www.hashicorp.com/solutions)  
+[Kubernetes](https://kubernetes.io/)    
+
+Infrastructure as Code    
+[Ansible](https://www.ansible.com/)     
+[Terraform](https://www.terraform.io/)   
+
+Monitoring     
+[Grafana](https://grafana.com/)    
+[Fluentd](https://www.fluentd.org/)   
+[Prometheus](https://prometheus.io/)      
+ 
+OS hardening    
+[Suricata](https://suricata.io/)   
+[Falco](https://falco.org/)       
+
+Scripting language   
+[Golang](https://go.dev/)    
+[Python](https://docs.python.org/3/)   
+
+Data integration  
+[Cloudquery](https://www.cloudquery.io/)   
+[Steampipe](https://steampipe.io/)   
+
 
 
 ### A bit of OSS 
