@@ -8,7 +8,7 @@ Some resources that inspired me:
 https://github.com/stavrosfilippidis/booklist 
 
 
-### Check out some OSS platform modules I've released
+### A bit of OSS 
 
 While working at previous companies, I noticed a recurring need for 
 adjacent infrastructure in the areas of monitoring, observability and bastion hosts. 
@@ -25,3 +25,4 @@ The modules are built using Terraform and can be easily customized or extended f
 If you encounter any issues or bugs, please don't hesitate to contact me. 
   
 
+More coming.. 
