@@ -7,7 +7,7 @@ meaningful technology.
 Some resources that inspired me:   
 https://github.com/stavrosfilippidis/booklist 
 
-Technologies I've worked with and can recommend:   
+### Technologies I've worked with and can recommend:   
 
 My workstation system   
 [Fedora](https://getfedora.org/)  
