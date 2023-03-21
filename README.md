@@ -27,7 +27,7 @@ Infrastructure as Code
 [Ansible](https://www.ansible.com/)     
 [Terraform](https://www.terraform.io/)   
 
-Monitoring     
+Monitoring & Observability 
 [Grafana](https://grafana.com/)    
 [Fluentd](https://www.fluentd.org/)   
 [Prometheus](https://prometheus.io/)      
@@ -36,7 +36,7 @@ OS hardening
 [Suricata](https://suricata.io/)   
 [Falco](https://falco.org/)       
 
-Scripting language   
+Scripting languages   
 [Golang](https://go.dev/)    
 [Python](https://docs.python.org/3/)   
 
