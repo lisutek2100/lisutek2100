@@ -1,6 +1,6 @@
 
 👋 Hi, I’m @stavrosfilippidis a cloud and security engineer that worked extensively in the 
-startup scene in Berlin. I'm a big fan of open source technology and what it provides to the tech world. 
+startup scene. I'm a big fan of open source technology and what it provides to the tech world. 
 My specialties are building and securing cloud infrastructure and working with innovative teams on 
 meaningful technology. 
 
