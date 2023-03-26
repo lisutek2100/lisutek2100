@@ -59,7 +59,7 @@ OS hardening
 [Falco](https://falco.org/)    
 [Clamav](https://www.clamav.net/)  
 
-Scripting languages   
+Programming Languages   
 [Golang](https://go.dev/)    
 [Python](https://docs.python.org/3/)   
 
